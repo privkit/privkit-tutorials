@@ -24,3 +24,7 @@ output/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Pipenv files
+Pipfile
+Pipfile.lock
